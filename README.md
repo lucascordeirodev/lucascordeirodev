@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Lucas Alves 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+J%C3%BAnior+%F0%9F%9A%80;Java+%7C+Banco+de+Dados+%7C+Angular;Em+busca+de+uma+grande+carreira+em+tech" alt="Typing SVG" /> </p>
+<h1 align="center">Fala pessoal, me chamo Lucas 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+J%C3%BAnior+%F0%9F%9A%80;Java+%7C+Banco+de+Dados+%7C+Angular;Em+busca+de+uma+grande+carreira+em+tech" alt="Typing SVG" /> </p>
 👨‍💻 Sobre mim
 
 Sou Lucas Alves, estou dando os primeiros passos na área de desenvolvimento. Estou estudando e construindo projetos com Java, bancos de dados e desenvolvimento web com Angular.
