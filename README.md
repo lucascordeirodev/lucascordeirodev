@@ -30,7 +30,7 @@ Meu sonho é construir uma grande carreira na programação, aprendendo todos os
 
 ---
 
-## 🐍 Minha cobrinha comendo as contribuições
+
 
 <p align="center">
   <picture>
