@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Lucas Alves 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+%F0%9F%9A%80;Sempre+aprendendo+e+evoluindo+%F0%9F%92%99;Em+busca+de+uma+grande+carreira+em+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+%F0%9F%9A%80;Em+busca+de+uma+grande+carreira+em+tech" alt="Typing SVG" />
 </p>
 
 ---
